@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/desna.jpg</file>
+        <file>images/leva.jpg</file>
+        <file>images/leva_orig.JPG</file>
+        <file>images/desna_orig.JPG</file>
+    </qresource>
+</RCC>
